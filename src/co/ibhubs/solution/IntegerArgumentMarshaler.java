@@ -1,11 +1,11 @@
-package co.ibhubs;
+package co.ibhubs.solution;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
 
-import static co.ibhubs.ArgsException.ErrorCode.INVALID_INTEGER;
-import static co.ibhubs.ArgsException.ErrorCode.MISSING_INTEGER;
+import static co.ibhubs.solution.ArgsException.ErrorCode.INVALID_INTEGER;
+import static co.ibhubs.solution.ArgsException.ErrorCode.MISSING_INTEGER;
 
 
 public class IntegerArgumentMarshaler implements ArgumentMarshaler {

@@ -1,9 +1,9 @@
-package co.ibhubs;
+package co.ibhubs.solution;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
-import static co.ibhubs.ArgsException.ErrorCode.MISSING_STRING;
+import static co.ibhubs.solution.ArgsException.ErrorCode.MISSING_STRING;
 
 public class StringArgumentMarshaler implements ArgumentMarshaler {
     private String stringValue = "";

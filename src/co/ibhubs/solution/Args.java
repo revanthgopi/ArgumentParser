@@ -1,10 +1,10 @@
-package co.ibhubs;
+package co.ibhubs.solution;
 
 import java.util.*;
 
-import static co.ibhubs.ArgsException.ErrorCode.INVALID_ARGUMENT_FORMAT;
-import static co.ibhubs.ArgsException.ErrorCode.INVALID_ARGUMENT_NAME;
-import static co.ibhubs.ArgsException.ErrorCode.UNEXPECTED_ARGUMENT;
+import static co.ibhubs.solution.ArgsException.ErrorCode.INVALID_ARGUMENT_FORMAT;
+import static co.ibhubs.solution.ArgsException.ErrorCode.INVALID_ARGUMENT_NAME;
+import static co.ibhubs.solution.ArgsException.ErrorCode.UNEXPECTED_ARGUMENT;
 
 
 public class Args {

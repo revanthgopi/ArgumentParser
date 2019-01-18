@@ -1,6 +1,6 @@
-package co.ibhubs;
+package co.ibhubs.solution;
 
-import static co.ibhubs.ArgsException.ErrorCode.OK;
+import static co.ibhubs.solution.ArgsException.ErrorCode.OK;
 
 public class ArgsException extends Exception {
     private char errorArgumentId = '\0';

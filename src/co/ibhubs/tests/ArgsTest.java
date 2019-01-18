@@ -1,6 +1,8 @@
-package co.ibhubs;
+package co.ibhubs.tests;
 
 
+import co.ibhubs.solution.Args;
+import co.ibhubs.solution.ArgsException;
 import junit.framework.TestCase;
 
 

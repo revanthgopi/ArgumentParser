@@ -1,4 +1,4 @@
-package co.ibhubs;
+package co.ibhubs.solution;
 
 import java.util.Iterator;
 
